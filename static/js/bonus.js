@@ -87,3 +87,5 @@ function buildGauge(WFREQ) {
     let GAUGE = document.getElementById("gauge");
     Plotly.newPlot(GAUGE, data, layout);
 }
+
+//buildGauge(20);

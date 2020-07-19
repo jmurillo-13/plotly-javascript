@@ -150,5 +150,3 @@ function getPlots(id) {
     }
     
     init();
-  © 2020 GitHub, Inc.
-  
